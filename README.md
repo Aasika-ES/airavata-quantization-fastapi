@@ -11,6 +11,13 @@ This project demonstrates the quantization of the Ai4bharat/Airavata LLM for eff
 - ✅ Runs on Google Colab / Local / Cloud
 - ✅ Clean code structure with modular design
   
+## 🚀 Demo Output
+
+Below is a sample response from the quantized Airavata model using the FastAPI backend:
+
+![API Output](screenshots/api_output.png)
+
+  
 ## Author
 Aasika ES
 M.Sc. Data Science Graduate
