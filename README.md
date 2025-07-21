@@ -15,7 +15,7 @@ This project demonstrates the quantization of the Ai4bharat/Airavata LLM for eff
 
 Below is a sample response from the quantized Airavata model using the FastAPI backend:
 
-![API Output](screenshots/api_output.png)
+![API Output](screenshot_api_output.jpg)
 
   
 ## Author
