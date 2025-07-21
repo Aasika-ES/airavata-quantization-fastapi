@@ -1,4 +1,7 @@
 # 🧠 Airavata Quantization with FastAPI
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![GPU Tested](https://img.shields.io/badge/Environment-GPU%20Tested-success)
 
 This project showcases the quantization of the [`Ai4Bharat/Airavata`](https://huggingface.co/Ai4Bharat/Airavata) large language model and serves it using a FastAPI backend. The objective is to reduce model size and improve inference speed (latency and throughput) — making it more efficient for real-world applications.
 
